@@ -1,0 +1,12 @@
+D:\workspace\samples\Lib\bin\Debug\Lib.dll.config
+D:\workspace\samples\Lib\bin\Debug\Lib.dll
+D:\workspace\samples\Lib\bin\Debug\Lib.pdb
+D:\workspace\samples\Lib\obj\Debug\Lib.csproj.CoreCompileInputs.cache
+D:\workspace\samples\Lib\obj\Debug\Lib.dll
+D:\workspace\samples\Lib\obj\Debug\Lib.pdb
+D:\workspace\sampledsfa\Lib\bin\Debug\Lib.dll.config
+D:\workspace\sampledsfa\Lib\bin\Debug\Lib.dll
+D:\workspace\sampledsfa\Lib\bin\Debug\Lib.pdb
+D:\workspace\sampledsfa\Lib\obj\Debug\Lib.csproj.CoreCompileInputs.cache
+D:\workspace\sampledsfa\Lib\obj\Debug\Lib.dll
+D:\workspace\sampledsfa\Lib\obj\Debug\Lib.pdb

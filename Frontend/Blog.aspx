@@ -1,0 +1,13 @@
+﻿<%@ Page Title="" Language="C#" MasterPageFile="~/Site1.Master" AutoEventWireup="true" CodeBehind="Blog.aspx.cs" Inherits="Frontend.Blog" %>
+<asp:Content ID="Content1" ContentPlaceHolderID="head" runat="server">
+</asp:Content>
+<asp:Content ID="Content2" ContentPlaceHolderID="ContentPlaceHolder1" runat="server">
+    <div id="blog">
+			<h1><a href="index.html">Blog Title Number One</a></h1>
+			<p>This website template has been designed by <a href="http://www.freewebsitetemplates.com/">Free Website Templates</a> for you, for free. You can replace all this text with your own text. You can remove any link to our website from this website template, you're free to use this website template without linking back to us. If you're having problems editing this website template, then don't hesitate to ask for help on the <a href="http://www.freewebsitetemplates.com/forum/">Forum</a>. Suspendisse faucibus metus eget leo iaculis non dignissim velit convallis. Suspendisse laoreet magna sed leo ultricies et lobortis ante mollis. In hac habitasse platea dictumst. Morbi faucibus felis at ligula dictum condimentum.</p>
+			<h1><a href="index.html">Blog Title Number One</a></h1>
+			<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras lectus felis, auctor quis imperdiet vel, tempor non neque. Proin sed sapien quis magna lobortis pharetra eu at elit. Nunc arcu augue, vestibulum non eleifend sit amet, mollis et liboro. Nulla placerat lorem massa. Sed ac ullamcorper velit. Cras tempus pharetra lacinia. Pellentesque pretium lobortis purus sodales egestas . Mauris scelerisque velit nulla sodales portitor. Suspendisse faucibus metus eget leo iaculis non dignissim vellit convallis. Suspendisse laoreet magna sed leo ultricies et lobortis ante mollis. In hac habitasse platea dictumst. Morbi faucibus felis at ligula dictum condimentum.</p>
+			<h1><a href="index.html">Blog Title Number One</a></h1>
+			<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras lectus felis, auctor quis imperdiet vel, tempor non neque. Proin sed sapien quis magna lobortis pharetra eu at elit. Nunc arcu augue, vestibulum non eleifend sit amet, mollis et liboro. Nulla placerat lorem massa. Sed ac ullamcorper velit. Cras tempus pharetra lacinia. Pellentesque pretium lobortis purus sodales egestas . Mauris scelerisque velit nulla sodales portitor. Suspendisse faucibus metus eget leo iaculis non dignissim vellit convallis. Suspendisse laoreet magna sed leo ultricies et lobortis ante mollis. In hac habitasse platea dictumst. Morbi faucibus felis at ligula dictum condimentum.</p>
+		</div>
+</asp:Content>
